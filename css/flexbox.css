@@ -1,0 +1,22 @@
+.container-1{
+display:flex;
+flex-direction:row;
+}
+.container-1 div{
+border:1px #ccc solid;
+padding:100px;
+}
+.box-1{
+flex:50;
+order:50;
+}
+.box-2{
+flex:50;
+order:50;
+}
+.center{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+}
